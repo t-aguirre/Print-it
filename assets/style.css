@@ -1,4 +1,3 @@
-/* variables declaration */
 :root {
 	--primary-color: #3396C0;
 	--secondary-color: #CD006B;
@@ -121,10 +120,10 @@ header {
 	object-fit: cover;
 	object-position: center;
 }
-/* Code CSS en prévision de l'ajout d'un carousel pour la bannière */
-/* Gestion des fleches du carrousel */
+/* Slider arrows */
 #banner .arrow {
 	position: absolute;
+	cursor: pointer;
 }
 #banner .arrow_left {
 	left: 10px;
@@ -132,7 +131,7 @@ header {
 #banner .arrow_right {
 	right: 10px;
 }
-/* Gestion des points du carrousel */
+/* Slider bullets */
 .dots {
 	position: absolute;
 	bottom: 40px;
@@ -150,7 +149,7 @@ header {
 .dot_selected {
 	background-color: #fff;
 }
-/* Fin du code CSS pour le carousel */
+
 #banner p {
 	font-family: 'Roboto Slab', sans-serif;
 	font-weight: 900;
