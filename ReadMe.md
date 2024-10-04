@@ -1,10 +1,12 @@
 <p align="left">
-  <img src="assets/images/logo.png" alt="logo The Artbox" height="19px">
+  <img src="assets/images/logo.png" alt="logo The Artbox" height="39px">
 </p>
 
 # Print it! is a small family-owned print shop 
 
 The owners seek to make its website header dynamic with a **full-width carousel**.
+
+[Check out the new feature](https://t-aguirre.github.io/Print-it/)
 
 ## 🔹 Dynamic Slider Features
 
